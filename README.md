@@ -1,138 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0000,100:3d0000&height=260&section=header&text=AISHA%20SIDDIQA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Terminal%20%7C%20Code%20%7C%20Build&descAlignY=50&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0000,100:3d0000&height=250&section=header&text=AISHA%20SIDDIQA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20RAG%20%26%20Agentic%20Systems%20%7C%20Full-Stack&descAlignY=52&descAlign=50&descColor=ff8a80" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF3B4E&center=true&vCenter=true&width=650&lines=Building+agentic+RAG+pipelines;Benchmarking+retrieval+strategies;Shipping+production-grade+AI;while(true)+%7B+build()%3B+%7D" alt="Typing SVG" />
 
 <br/>
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    $ whoami                                    ║
-║                    aisha_sid@terminal:~$                       ║
-║        AI/ML Engineer | Full-Stack Builder | Open Source       ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/">
-  <img src="https://img.shields.io/badge/→_LINKEDIN-Connect-ff1744?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a0000" />
-</a>
-<a href="mailto:aishasiddiqa243@gmail.com">
-  <img src="https://img.shields.io/badge/→_EMAIL-Say%20Hi-ff1744?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a0000" />
-</a>
-<a href="https://github.com/AishaSid">
-  <img src="https://img.shields.io/badge/→_GITHUB-Follow-ff1744?style=for-the-badge&logo=github&logoColor=black&labelColor=1a0000" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=500&color=ff1744&background=1a0000&center=true&vCenter=true&width=800&lines=%24%20Building%20agentic%20systems;%24%20Shipping%20end-to-end%20AI;%24%20git%20push%20%2Dforce%20innovation;%24%20while(true)%20%7B%20code()%20%7D" />
-</a>
+<a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=B71C1C&labelColor=B71C1C" /></a>
+<a href="mailto:aishasiddiqa243@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-ffffff?style=for-the-badge&logo=gmail&logoColor=B71C1C&labelColor=B71C1C" /></a>
+<a href="https://github.com/AishaSid"><img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=B71C1C&labelColor=B71C1C" /></a>
+<img src="https://komarev.com/ghpvc/?username=AishaSid&style=for-the-badge&color=B71C1C&labelColor=1a0000&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-## > $root/about_me
+## 🩸 About Me
 
-```bash
-┌─ aisha@terminal ~/projects 
-├─ CS Graduate (FAST NUCES) obsessed with LLMs, RAG, and agents
-│
-├─ Building at the intersection of:
-│  ├─ Generative AI & Language Models
-│  ├─ Retrieval Augmented Generation (RAG)
-│  ├─ Multi-Agent Orchestration Systems
-│  └─ Production-Grade AI Applications
-│
-├─ Philosophy:
-│  » End-to-end shipping, not just demos
-│  » Reliability > flashy features
-│  » Understanding model behavior deeply
-│
-└─ Currently Exploring:
-   ├─ LLM Orchestration & Multi-Agent Systems
-   ├─ Evaluation Frameworks (RAGAS, Custom Evals)
-   └─ Agentic AI in Real-World Applications
+```yaml
+name: Aisha Siddiqa
+role: AI/ML Engineer — RAG, Agentic Systems & Full-Stack Development
+education: BS Computer Science, FAST-NUCES Islamabad
+focus:
+  - Retrieval-Augmented Generation (RAG) pipeline engineering
+  - Multi-agent orchestration with LangGraph
+  - Production-grade LLM applications, not just demos
+philosophy: >
+  Reliability over flashy features. Ship end-to-end,
+  understand model behavior deeply, measure everything.
+currently_exploring:
+  - Evaluation frameworks (RAGAS, custom eval harnesses)
+  - Agentic RAG patterns in real-world deployments
 ```
 
 <br/>
 
-## > $tools && skills
+## ⚙️ Tech Stack
 
-**🤖 AI / ML / Gen AI**
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**📊 Vector DBs & Retrieval**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=chroma&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square&logo=meta&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-**⚙️ Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**🎨 Frontend & UI**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
+**AI / ML / GenAI**
 <br/>
+![Python](https://img.shields.io/badge/Python-B71C1C?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-B71C1C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-B71C1C?style=flat-square&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-B71C1C?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-B71C1C?style=flat-square&logo=huggingface&logoColor=white)
 
-## > $projects --showcase
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Agentic-RAG Resume Screener
-**Multi-Strategy Recruitment System**
-
-Multi-agent orchestrator routing queries across Fusion RAG, HyDE, CRAG, and Graph RAG over 2,400+ resumes with intelligent routing logic.
-
-`LangGraph` `RAG` `Multi-Agent` `Python`
-
-</td>
-<td width="50%">
-
-### ✍️ CoWriteIA  
-**AI Writing Platform**
-
-Context-aware writing assistance with semantic RAG, document indexing, and custom embedding pipelines. FastAPI + Next.js.
-
-`RAG` `Embeddings` `FastAPI` `Next.js`
+**Vector DBs & Retrieval**
+<br/>
+![ChromaDB](https://img.shields.io/badge/ChromaDB-B71C1C?style=flat-square&logo=chroma&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-B71C1C?style=flat-square&logo=meta&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-B71C1C?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-B71C1C?style=flat-square&logo=pinecone&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 💰 Velora
-**Multi-Agent Financial Analysis**
+**Backend & Infra**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-B71C1C?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B71C1C?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-B71C1C?style=flat-square&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-B71C1C?style=flat-square&logo=mlflow&logoColor=white)
 
-Financial, risk, and competitor analysis through self-correcting agent loops. Each agent has defined scope with LangChain orchestration.
-
-`Multi-Agent` `Finance` `LangChain` `Orchestration`
-
-</td>
-<td width="50%">
-
-### 💼 HireSmart  
-**ATS-Optimized Resume Builder**
-
-Modern resume builder with Supabase auth, real-time validation, and Puppeteer PDF export. Built better than the rest.
-
-`Supabase` `Next.js` `Puppeteer` `UX-Focused`
+**Frontend & UI**
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-B71C1C?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-B71C1C?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-B71C1C?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -140,75 +78,97 @@ Modern resume builder with Supabase auth, real-time validation, and Puppeteer PD
 
 <br/>
 
-## > $current_status
+## 🚀 Featured Projects
 
-```bash
-────────────────────────────────────────────
-  🔬 Deep Dive: LLM Orchestration
-  📈 Focus: Making multi-agent systems reliable
-  🧪 Learning: Evaluation frameworks (RAGAS)
-  🚀 Goal: Shipping production agentic systems
-────────────────────────────────────────────
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🎯 Agentic-RAG Resume Screener</h3>
+<b>Multi-strategy retrieval benchmark — FYP</b>
+<p>LangGraph-based system benchmarking five retrieval strategies (CRAG, HyDE, Graph RAG, Fusion RAG, dense baseline) across 2,484 resumes. Evaluated with RAGAS: 0.92 Faithfulness, 0.91 Context Precision.</p>
+<code>LangGraph · ChromaDB · FAISS · BM25 · Python</code>
+</td>
+<td width="50%" valign="top">
+<h3>✍️ CoWriteIA</h3>
+<b>AI collaborative writing platform</b>
+<p>FastAPI backend, Next.js frontend, semantic RAG over documents with custom embedding pipelines. 231 backend tests, 100% pass rate.</p>
+<code>LangChain · ChromaDB · FastAPI · Next.js</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💰 Velora</h3>
+<b>Multi-agent financial analysis</b>
+<p>Specialized agents for financial, risk, and competitor analysis with self-correction loops and scoped responsibilities via LangChain orchestration.</p>
+<code>LangChain · Multi-Agent · Python</code>
+</td>
+<td width="50%" valign="top">
+<h3>💼 HireSmart</h3>
+<b>ATS-optimized resume builder</b>
+<p>Built during internship at Nexium. Supabase auth, real-time validation, and Puppeteer-based PDF export.</p>
+<code>Next.js · Supabase · Puppeteer</code>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔬 Currently
+
+```
+▸ Deep-diving LLM orchestration & multi-agent reliability
+▸ Building evaluation frameworks (RAGAS, custom evals)
+▸ Actively interviewing for AI Engineer / Product Engineer roles
+▸ Open to freelance, collaboration & full-time opportunities
 ```
 
 <br/>
 
-## > $achievements
+## 🏆 Achievements
 
-```
-┌─ Mentored junior students in AI/ML at FAST NUCES
-├─ International Mathematics Olympiad Medalist  
-├─ End-to-end AI project deployment experience
-├─ Open source contributor & community builder
-└─ Passionate about reproducible, reliable AI
-```
+- Mentored junior students in AI/ML at FAST-NUCES
+- International Mathematics Olympiad medalist
+- Published FYP research in LNCS format
+- End-to-end AI project deployment experience, from research to production
 
 <br/>
 
-## > $stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1A0000&title_color=ff1744&text_color=ff8a80&icon_color=ff1744" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaSid&hide_border=true&background=1A0000&stroke=ff1744&ring=ff1744&fire=ff1744&currStreakLabel=ff8a80" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&hide_border=true&bg_color=1A0000&title_color=FF3B4E&text_color=ffffff&icon_color=FF3B4E&border_radius=8" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaSid&hide_border=true&background=1A0000&stroke=FF3B4E&ring=FF3B4E&fire=FF3B4E&currStreakLabel=ffffff&sideLabels=ffffff&dates=ff8a80&border_radius=8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&hide_border=true&bg_color=1A0000&title_color=ff1744&text_color=ff8a80" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AishaSid&hide_border=true&bg_color=1A0000&color=ff1744&line=ff1744&point=ff8a80" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&hide_border=true&bg_color=1A0000&title_color=FF3B4E&text_color=ffffff&border_radius=8" width="60%" />
 
 </div>
 
 <br/>
 
-## > $open_to
+## 📬 Let's Connect
 
 <div align="center">
 
-```bash
+```
 $ git config --global status.availability
-  ✓ Collaboration on agentic/RAG systems
-  ✓ Freelance AI/ML projects  
-  ✓ Full-time opportunities in AI/ML
-  ✓ Open source contributions
-  ✓ Mentoring & knowledge sharing
+  ✔ Collaboration on agentic/RAG systems
+  ✔ Freelance AI/ML projects
+  ✔ Full-time opportunities in AI/ML
+  ✔ Open source contributions
+  ✔ Mentoring & knowledge sharing
 ```
 
 <br/>
 
-<a href="mailto:aishasiddiqa243@gmail.com">
-  <img src="https://img.shields.io/badge/%24_contact.me()-Reach%20Out-ff1744?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a0000" />
-</a>
-<a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/">
-  <img src="https://img.shields.io/badge/%24_connect.linkedin()-Profile-ff1744?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a0000" />
-</a>
-<a href="https://github.com/AishaSid">
-  <img src="https://img.shields.io/badge/%24_explore.repos()-Projects-ff1744?style=for-the-badge&logo=github&logoColor=black&labelColor=1a0000" />
-</a>
+<a href="mailto:aishasiddiqa243@gmail.com"><img src="https://img.shields.io/badge/Reach%20Out-ffffff?style=for-the-badge&logo=gmail&logoColor=B71C1C&labelColor=B71C1C" /></a>
+<a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/"><img src="https://img.shields.io/badge/Profile-ffffff?style=for-the-badge&logo=linkedin&logoColor=B71C1C&labelColor=B71C1C" /></a>
+<a href="https://github.com/AishaSid"><img src="https://img.shields.io/badge/Repos-ffffff?style=for-the-badge&logo=github&logoColor=B71C1C&labelColor=B71C1C" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,100:1a0000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,100:1a0000&height=110&section=footer" width="100%"/>
+
+<sub>Built with code & persistence — let's build something worth shipping.</sub>
 
 </div>
-
-----
