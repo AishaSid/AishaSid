@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a2e,100:16213e&height=260&section=header&text=AISHA%20SIDDIQU&fontSize=60&fontColor=00ff00&fontAlignY=35&desc=Terminal%20%7C%20Code%20%7C%20Build&descAlignY=50&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0000,100:3d0000&height=260&section=header&text=AISHA%20SIDDIQU&fontSize=60&fontColor=ff1744&fontAlignY=35&desc=Terminal%20%7C%20Code%20%7C%20Build&descAlignY=50&descAlign=62" />
 
 <br/>
 
@@ -13,19 +13,19 @@
 ```
 
 <a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/">
-  <img src="https://img.shields.io/badge/→_LINKEDIN-Connect-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/→_LINKEDIN-Connect-ff1744?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a0000" />
 </a>
 <a href="mailto:aishasiddiqa243@gmail.com">
-  <img src="https://img.shields.io/badge/→_EMAIL-Say%20Hi-00ff00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/→_EMAIL-Say%20Hi-ff1744?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a0000" />
 </a>
 <a href="https://github.com/AishaSid">
-  <img src="https://img.shields.io/badge/→_GITHUB-Follow-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/→_GITHUB-Follow-ff1744?style=for-the-badge&logo=github&logoColor=black&labelColor=1a0000" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=500&color=00ff00&background=0a0e27&center=true&vCenter=true&width=800&lines=%24%20Building%20agentic%20systems;%24%20Shipping%20end-to-end%20AI;%24%20git%20push%20%2Dforce%20innovation;%24%20while(true)%20%7B%20code()%20%7D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=500&color=ff1744&background=1a0000&center=true&vCenter=true&width=800&lines=%24%20Building%20agentic%20systems;%24%20Shipping%20end-to-end%20AI;%24%20git%20push%20%2Dforce%20innovation;%24%20while(true)%20%7B%20code()%20%7D" />
 </a>
 
 </div>
@@ -169,12 +169,12 @@ Modern resume builder with Supabase auth, real-time validation, and Puppeteer PD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaSid&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ff00&ring=00ff00&fire=00ff00" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1A0000&title_color=ff1744&text_color=ff8a80&icon_color=ff1744" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishaSid&hide_border=true&background=1A0000&stroke=ff1744&ring=ff1744&fire=ff1744&currStreakLabel=ff8a80" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=00ff00" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&hide_border=true&bg_color=1A0000&title_color=ff1744&text_color=ff8a80" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AishaSid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ff00&line=00ff00&point=00ff00" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AishaSid&hide_border=true&bg_color=1A0000&color=ff1744&line=ff1744&point=ff8a80" width="100%"/>
 
 </div>
 
@@ -196,25 +196,19 @@ $ git config --global status.availability
 <br/>
 
 <a href="mailto:aishasiddiqa243@gmail.com">
-  <img src="https://img.shields.io/badge/%24_contact.me()-Reach%20Out-00ff00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/%24_contact.me()-Reach%20Out-ff1744?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a0000" />
 </a>
 <a href="https://www.linkedin.com/in/aisha-siddiqa-681931251/">
-  <img src="https://img.shields.io/badge/%24_connect.linkedin()-Profile-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/%24_connect.linkedin()-Profile-ff1744?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a0000" />
 </a>
 <a href="https://github.com/AishaSid">
-  <img src="https://img.shields.io/badge/%24_explore.repos()-Projects-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/%24_explore.repos()-Projects-ff1744?style=for-the-badge&logo=github&logoColor=black&labelColor=1a0000" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0a0e27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,100:1a0000&height=120&section=footer" width="100%"/>
 
 </div>
 
----
-
-<div align="center">
-
-<sub>💚 Terminal theme activated | Built with code & passion | Let's build something amazing together</sub>
-
-</div>
+----
