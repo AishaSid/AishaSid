@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0000,100:3d0000&height=260&section=header&text=AISHA%20SIDDIQA&fontSize=60&fontColor=000000&fontAlignY=35&desc=Terminal%20%7C%20Code%20%7C%20Build&descAlignY=50&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0000,100:3d0000&height=260&section=header&text=AISHA%20SIDDIQA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Terminal%20%7C%20Code%20%7C%20Build&descAlignY=50&descAlign=62" />
 
 <br/>
 
