@@ -313,14 +313,14 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ╚══════════════════════════════════════════════════════════╝ -->
 
 ╔────────────────────────────────────────────────────────────────╗
-  ◈  STATS.LOG                                          [ ■ □ × ]
+  ◈  STATS.LOG  //  ARCADE GAMES                      [ ■ □ × ]
 ╚────────────────────────────────────────────────────────────────╝
 
-🟡  **PAC-MAN ARCADE** — contributions as gameplay
-[![Pac-Man Game](https://github.com/AishaSid/AishaSid/raw/main/pacman.svg)](https://github.com/AishaSid)
+🟡 **PAC-MAN** — contributions as gameplay
+![Pac-Man Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-contribution-graph.svg)
 
-★  **GALAGA ARCADE** — contributions as gameplay  
-[![Galaga Game](https://github.com/AishaSid/AishaSid/raw/main/galaga.svg)](https://github.com/AishaSid)
+★ **GALAGA** — contributions as gameplay
+![Galaga Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-contribution-graph.svg)
 
 
 <!-- ╔══════════════════════════════════════════════════════════╗
