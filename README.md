@@ -312,89 +312,16 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ║                      STATS LOG                           ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-```
 ╔─────────────────────────────────────────────────────────────────╗
   ◈  STATS.LOG                                          [ ■ □ × ]
 ╚─────────────────────────────────────────────────────────────────╝
-```
 
-</div>
+🟡  **PAC-MAN** — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread
+![Pac-Man eating Aisha's GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=AishaSid&theme=react-dark)
 
-<div align="center">
+★  **GALAGA** — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class
+![Galaga ship shooting Aisha's GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AishaSid&theme=ambient_gradient)
 
-<img src="https://streak-stats.demolab.com/?user=AishaSid&theme=radical&hide_border=true&background=0d0221&ring=6C63FF&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=ffffff&sideNums=ffffff&dates=7209b7" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&icon_color=F72585&text_color=e0aaff&rank_icon=github&include_all_commits=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&text_color=e0aaff&langs_count=6" height="170" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AishaSid&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/AishaSid?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7209b7" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/AishaSid?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=F72585" />
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║   PAC-MAN CONTRIBUTION GRAPH                             ║
-     ║   Built with OS concepts: threads · mutexes · processes  ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<sub>🟡 &nbsp;<b>PAC-MAN</b> — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman.svg" />
-  <img
-    alt="Pac-Man eating Aisha's GitHub contributions"
-    src="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-dark.svg"
-    width="100%" />
-</picture>
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║   GALAGA CONTRIBUTION GRAPH                              ║
-     ║   Built with OOP: inheritance · polymorphism             ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<sub>★ &nbsp;<b>GALAGA</b> — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class</sub>
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga.svg" />
-  <img
-    alt="Galaga ship shooting Aisha's GitHub contributions"
-    src="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-dark.svg"
-    width="100%" />
-</picture>
-</div>
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗
      ║                       FOOTER                             ║
