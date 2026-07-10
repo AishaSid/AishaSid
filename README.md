@@ -7,15 +7,11 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0221,30:1a0533,55:3a0ca3,75:7209b7,100:f72585&text=AISHA%20SIDDIQA&fontColor=ffffff&fontSize=52&fontAlignY=38&fontAlignX=50" width="100%" />
-
+  <img src="./pixel_art_banner_top.png" width="100%" style="height: 150px; object-fit: cover; object-position: center; border-radius: 8px;" alt="Aisha Siddiqa - AI Engineer Banner" />
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&multiline=false&width=780&height=30&lines=%3E+SYSTEM+ONLINE;%3E+READY+FOR+ACTION" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&multiline=false&width=780&height=35&lines=%3E+SYSTEM+ONLINE+%E2%96%88;%3E+AI+ENGINE+BOOTED+%E2%96%88;%3E+AGENTIC+WORKFLOWS+READY+%E2%96%88" />
 </div>
 
 <br/>
@@ -43,67 +39,42 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔────────────────────────────────────────────────────────────────╗
-  ◈  ABOUT.ME                                          [ ■ □ × ]
-╚────────────────────────────────────────────────────────────────╝
-```
-
+  <h2>ABOUT ME</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
 </div>
+
+<br/>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-```ansi
-┌─[ whoami ]──────────────────────────────────────┐
-│                                                  │
-│  Aisha Siddiqa  /  AI Engineer                  │
-│  ──────────────────────────────                 │
-│                                                  │
-│  I build systems where LLMs don't just chat —   │
-│  they retrieve, reason, use tools, and           │
-│  collaborate as autonomous agents.               │
-│                                                  │
-│  ▸ Retrieval-Augmented Generation (RAG)         │
-│  ▸ Agentic AI & Multi-Agent Systems             │
-│  ▸ LangChain  ·  LangGraph  ·  MCP             │
-│  ▸ Hugging Face  ·  Transformers  ·  LLMs      │
-│  ▸ NLP  ·  Prompt Engineering                   │
-│  ▸ Vector Databases & Embeddings                │
-│  ▸ FastAPI  ·  Next.js  ·  React               │
-│  ▸ PostgreSQL  ·  MongoDB  ·  ChromaDB          │
-│  ▸ Docker  ·  MLOps  ·  Deployment             │
-│                                                  │
-│  Turning research ideas into production-ready   │
-│  AI systems that are reliable and useful.       │
-│                                                  │
-└──────────────────────────────────────────────────┘
+### 🤖 Core Protocol
+> **I build cognitive architectures where LLMs don't just chat — they retrieve, reason, coordinate, and act.**
+
+* **Retrieval-Augmented Generation (RAG)**: Advanced pipelines, Reciprocal Rank Fusion, metadata filtering, and semantic search.
+* **Agentic AI & Multi-Agent Workflows**: State machine architectures, human-in-the-loop triggers, and automated tool utilization.
+* **Production Engineering**: FastAPI services, vector databases, next-gen frontends, and reliable evaluation layers.
+
+```
+⚡ status: online & executing task loops...
 ```
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="40%" valign="top">
 
-<br/>
+<div align="center">
+  <img src="https://media.tenor.com/Jt8GFoJ7R4QAAAAi/pixel-cat.gif" width="100" />
+</div>
 
-<img src="https://media.tenor.com/Jt8GFoJ7R4QAAAAi/pixel-cat.gif" width="150" />
-
-<br/><br/>
-
-```
-┌─[ status.json ]──────────────┐
-│                               │
-│  HP   ██████████  MAX        │
-│  AI   ██████████  MAX        │
-│  RAG  ██████████  MAX        │
-│  XP   ██████████  +9999 ★   │
-│                               │
-│  ROLE  » AI Engineer         │
-│  STAT  » Building Agents     │
-│  MODE  » Hiring Ready ✓      │
-│                               │
-└───────────────────────────────┘
+```yaml
+# CHARACTER_STATS
+ROLE:  "AI Engineer"
+HP:    "[██████████] 100%"
+AI:    "[██████████] 100%"
+RAG:   "[██████████] 100%"
+XP:    "Level MAX (+9999)"
+STATUS: "Hiring Ready"
 ```
 
 </td>
@@ -113,14 +84,12 @@
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/◈%20RAG-6C63FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20AGENTS-7209b7?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20LangGraph-F72585?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20MCP-4CC9F0?style=flat-square&logoColor=111111" />
-<img src="https://img.shields.io/badge/◈%20LLMs-F8961E?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20Vector%20DBs-6C63FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20Full%20Stack-7209b7?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/◈%20C%2B%2B-F72585?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20RAG-6C63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20AGENTS-7209b7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20LangGraph-F72585?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20MCP-4CC9F0?style=for-the-badge&logoColor=111111" />
+<img src="https://img.shields.io/badge/◈%20LLMs-F8961E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/◈%20Vector%20DBs-6C63FF?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
@@ -130,13 +99,8 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔────────────────────────────────────────────────────────────────╗
-  ◈  FEATURED.PROJECTS                                  [ ■ □ × ]
-╚────────────────────────────────────────────────────────────────╝
-```
-
+  <h2>FEATURED PROJECTS</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
 </div>
 
 <table>
@@ -247,13 +211,8 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔────────────────────────────────────────────────────────────────╗
-  ◈  SIDE.QUESTS                                        [ ■ □ × ]
-╚────────────────────────────────────────────────────────────────╝
-```
-
+  <h2>SIDE QUESTS</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
 </div>
 
 ```text
@@ -271,12 +230,9 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔────────────────────────────────────────────────────────────────╗
-  ◈  INVENTORY  //  TECH.STACK                          [ ■ □ × ]
-╚────────────────────────────────────────────────────────────────╝
-```
+  <h2>INVENTORY & TECH STACK</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
+</div>
 
 <!-- Row 1: AI / Agents / RAG + core ML -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,aws,vscode,vercel,cpp&perline=10" />
@@ -312,14 +268,15 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ║                      STATS LOG                           ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-╔────────────────────────────────────────────────────────────────╗
-  ◈  STATS.LOG  //  ARCADE GAMES                      [ ■ □ × ]
-╚────────────────────────────────────────────────────────────────╝
+<div align="center">
+  <h2>STATS & ARCADE GAMES</h2>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
+</div>
 
-🟡 **PAC-MAN** — contributions as gameplay
+🟡 **PAC-MAN** — contributions as gameplay · built with OS concepts (mutexes, threading, and processes)
 ![Pac-Man Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-graph.svg)
 
-★ **GALAGA** — contributions as gameplay
+★ **GALAGA** — contributions as gameplay · built with OOP concepts
 ![Galaga Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-graph.svg)
 
 
@@ -328,9 +285,5 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:f72585,30:7209b7,60:3a0ca3,100:0d0221&section=footer&reversal=false" width="100%" />
-
-<sub><b>🕹 PRESS START TO CONNECT</b> &nbsp;—&nbsp; aishasiddiqa243@gmail.com</sub>
-
+  <sub><b>📬 GET IN TOUCH</b> &nbsp;—&nbsp; <a href="mailto:aishasiddiqa243@gmail.com">aishasiddiqa243@gmail.com</a></sub>
 </div>
