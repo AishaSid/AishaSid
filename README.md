@@ -7,7 +7,7 @@
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="./pixel_art_banner_top.png" width="100%" style="height: 150px; object-fit: cover; object-position: center; border-radius: 8px;" alt="Aisha Siddiqa - AI Engineer Banner" />
+  <img src="./pixel_art_banner_top.png" width="100%" alt="Aisha Siddiqa - AI Engineer Banner" />
 </div>
 
 <div align="center">
