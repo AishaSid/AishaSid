@@ -2,38 +2,46 @@ name: Generate Game Contribution Graphs
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:           # manual trigger
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:           # allow manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
-      # ── PAC-MAN  (purple / pink / cyan on deep dark bg) ──────────────
-      - name: Generate Pac-Man contribution graph
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ── PAC-MAN — purple/pink palette on dark bg ─────────────────────
+      - name: Generate Pac-Man SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman.svg?pac_man=true&color_dots=#7209b7,#9d4edd,#c77dff,#e0aaff,#f72585&color_bg=#ffffff
+            dist/pacman.svg?pac_man=true&color_dots=#9d4edd,#c77dff,#e0aaff,#f72585,#ff85a1&color_bg=#ffffff
             dist/pacman-dark.svg?pac_man=true&color_dots=#3a0ca3,#7209b7,#c77dff,#f72585,#ff85a1&color_bg=#0d0221
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── GALAGA  (alien yellow/green on near-black dark bg) ───────────
-      - name: Generate Galaga contribution graph
+      # ── GALAGA — alien yellow/orange palette on near-black ────────────
+      - name: Generate Galaga SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/galaga.svg?pac_man=true&color_dots=#ffd60a,#f4a228,#f77f00,#d62828,#003049&color_bg=#ffffff
-            dist/galaga-dark.svg?pac_man=true&color_dots=#003049,#f77f00,#f4a228,#ffd60a,#ffffff&color_bg=#03071e
+            dist/galaga.svg?pac_man=true&color_dots=#ffd60a,#f4a228,#f77f00,#d62828,#6a0572&color_bg=#ffffff
+            dist/galaga-dark.svg?pac_man=true&color_dots=#1a1a2e,#f77f00,#f4a228,#ffd60a,#ffffff&color_bg=#03071e
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── Push both SVGs to the output branch ─────────────────────────
+      # ── Push all 4 SVGs to the output branch ─────────────────────────
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true    # don't wipe old files on each push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

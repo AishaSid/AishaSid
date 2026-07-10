@@ -56,8 +56,6 @@
 <tr>
 <td width="60%" valign="top">
 
-<div>
-
 ```ansi
 ┌─[ whoami ]──────────────────────────────────────┐
 │                                                  │
@@ -83,8 +81,6 @@
 │                                                  │
 └──────────────────────────────────────────────────┘
 ```
-
-</div>
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -117,8 +113,6 @@
 <br/>
 
 <div align="center">
-
-<!-- skill pills row -->
 <img src="https://img.shields.io/badge/◈%20RAG-6C63FF?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/◈%20AGENTS-7209b7?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/◈%20LangGraph-F72585?style=flat-square&logoColor=white" />
@@ -127,7 +121,6 @@
 <img src="https://img.shields.io/badge/◈%20Vector%20DBs-6C63FF?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/◈%20Full%20Stack-7209b7?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/◈%20C%2B%2B-F72585?style=flat-square&logoColor=white" />
-
 </div>
 
 <br/>
@@ -163,7 +156,7 @@ Full-stack AI writing platform where an LLM doesn't just autocomplete — it ind
 <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=4CC9F0" />
 <img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-F72585?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logoColor=111111" />
+<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logo=groq&logoColor=111111" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
@@ -214,7 +207,7 @@ Agentic system that turns a single prompt into a complete short film. I built Ph
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 <img src="https://img.shields.io/badge/MoviePy-F72585?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FLUX.1-F8961E?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logoColor=111111" />
+<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logo=groq&logoColor=111111" />
 
 <br/><br/>
 
@@ -236,7 +229,7 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <img src="https://img.shields.io/badge/RAGAS-F72585?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=6C63FF" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" />
-<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logoColor=111111" />
+<img src="https://img.shields.io/badge/Groq-4CC9F0?style=flat-square&logo=groq&logoColor=111111" />
 <img src="https://img.shields.io/badge/Gemini-F8961E?style=flat-square&logo=googlegemini&logoColor=white" />
 
 <br/><br/>
@@ -285,68 +278,31 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 ╚─────────────────────────────────────────────────────────────────╝
 ```
 
-</div>
+<!-- Row 1: AI / Agents / RAG + core ML -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,aws,vscode,vercel,cpp&perline=10" />
 
-<div align="center">
+<br/>
 
-**`[ AI · AGENTS · RAG ]`**
+<!-- Row 2: Web + DB + infra -->
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind,mongodb,postgresql,redis,graphql,linux&perline=10" />
 
-<img src="https://skillicons.dev/icons?i=python" width="36" title="Python" />
-<img src="https://cdn.simpleicons.org/langchain/6C63FF" width="36" title="LangChain" />
-<img src="https://cdn.simpleicons.org/openai/6C63FF" width="36" title="OpenAI" />
-<img src="https://cdn.simpleicons.org/huggingface/F8961E" width="36" title="HuggingFace" />
-<img src="https://cdn.simpleicons.org/groq/4CC9F0" width="36" title="Groq" />
-<img src="https://cdn.simpleicons.org/googlegemini/F72585" width="36" title="Gemini" />
+<br/>
 
-<br/><br/>
-
-**`[ VECTOR DBs · RETRIEVAL · EVALUATION ]`**
-
-<img src="https://cdn.simpleicons.org/chromadb/F72585" width="36" title="ChromaDB" />
-<img src="https://cdn.simpleicons.org/meta/4CC9F0" width="36" title="FAISS" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="36" title="MongoDB" />
-<img src="https://img.shields.io/badge/BM25-F8961E?style=flat-square&logo=elasticsearch&logoColor=white" height="36" title="BM25" />
-<img src="https://img.shields.io/badge/RAGAS-F72585?style=flat-square&logo=python&logoColor=white" height="36" title="RAGAS" />
-
-<br/><br/>
-
-**`[ BACKEND · APIS · INFRA ]`**
-
-<img src="https://skillicons.dev/icons?i=fastapi" width="36" title="FastAPI" />
-<img src="https://cdn.simpleicons.org/flask/6C63FF" width="36" title="Flask" />
-<img src="https://skillicons.dev/icons?i=redis" width="36" title="Redis" />
-<img src="https://cdn.simpleicons.org/celery/37814A" width="36" title="Celery" />
-<img src="https://skillicons.dev/icons?i=postgresql" width="36" title="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=docker" width="36" title="Docker" />
-<img src="https://skillicons.dev/icons?i=aws" width="36" title="AWS" />
-
-<br/><br/>
-
-**`[ FRONTEND · UI ]`**
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="36" title="Next.js" />
-<img src="https://skillicons.dev/icons?i=react" width="36" title="React" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="36" title="Tailwind CSS" />
-<img src="https://cdn.simpleicons.org/gradio/FF7C00" width="36" title="Gradio" />
-<img src="https://cdn.simpleicons.org/streamlit/F72585" width="36" title="Streamlit" />
-
-<br/><br/>
-
-**`[ AUDIO · VIDEO · MEDIA ]`**
-
-<img src="https://cdn.simpleicons.org/ffmpeg/007808" width="36" title="FFmpeg" />
-<img src="https://img.shields.io/badge/Edge--TTS-4CC9F0?style=flat-square&logo=microsoft&logoColor=111111" height="36" title="Edge-TTS" />
-<img src="https://img.shields.io/badge/MoviePy-F72585?style=flat-square&logo=python&logoColor=white" height="36" title="MoviePy" />
-
-<br/><br/>
-
-**`[ TOOLS · DEVOPS ]`**
-
-<img src="https://skillicons.dev/icons?i=git" width="36" title="Git" />
-<img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" width="36" title="VS Code" />
-<img src="https://skillicons.dev/icons?i=vercel" width="36" title="Vercel" />
-<img src="https://skillicons.dev/icons?i=cpp" width="36" title="C++" />
+<!-- Row 3: AI/ML ecosystem — shields badges for ones not in skillicons -->
+<img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/LangGraph-7209b7?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/ChromaDB-F72585?style=flat-square&logo=databricks&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/FAISS-4CC9F0?style=flat-square&logo=meta&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/RAGAS-F8961E?style=flat-square&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/MCP-4CC9F0?style=flat-square&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="28" />
 
 </div>
 
@@ -368,15 +324,13 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AishaSid&theme=radical&hide_border=true&background=0d0221&ring=6C63FF&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=ffffff&sideNums=ffffff&dates=7209b7" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AishaSid&theme=radical&hide_border=true&background=0d0221&ring=6C63FF&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=ffffff&sideNums=ffffff&dates=7209b7" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&icon_color=F72585&text_color=e0aaff&ring_color=7209b7" height="180" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&text_color=e0aaff&langs_count=6" height="140" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AishaSid&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&icon_color=F72585&text_color=e0aaff&rank_icon=github&include_all_commits=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaSid&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=6C63FF&text_color=e0aaff&langs_count=6" height="170" />
 
 <br/><br/>
 
@@ -391,73 +345,53 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗
-     ║            PAC-MAN CONTRIBUTION GRAPH                    ║
+     ║   PAC-MAN CONTRIBUTION GRAPH                             ║
      ║   Built with OS concepts: threads · mutexes · processes  ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔─────────────────────────────────────────────────────────────────╗
-  ●  PAC-MAN  //  CONTRIBUTION GRID          [ threads · mutexes ]
-╚─────────────────────────────────────────────────────────────────╝
-```
-
-<sub>Built with OS concepts — POSIX threads, mutexes & semaphores · each ghost runs in its own thread</sub>
-
+<sub>🟡 &nbsp;<b>PAC-MAN</b> — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread</sub>
 </div>
 
 <br/>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/AishaSid/AishaSid/blob/output/pacman-dark.svg" />
+    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/AishaSid/AishaSid/blob/output/pacman.svg" />
+    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman.svg" />
   <img
     alt="Pac-Man eating Aisha's GitHub contributions"
-    src="https://github.com/AishaSid/AishaSid/blob/output/pacman-dark.svg"
+    src="https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-dark.svg"
     width="100%" />
 </picture>
-
 </div>
 
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗
-     ║             GALAGA CONTRIBUTION GRAPH                    ║
-     ║    Built with OOP: inheritance · polymorphism            ║
+     ║   GALAGA CONTRIBUTION GRAPH                              ║
+     ║   Built with OOP: inheritance · polymorphism             ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-```
-╔─────────────────────────────────────────────────────────────────╗
-  ★  GALAGA  //  CONTRIBUTION GRID    [ OOP · inheritance · poly ]
-╚─────────────────────────────────────────────────────────────────╝
-```
-
-<sub>Built with OOP concepts — inheritance, polymorphism & encapsulation · every enemy is a class</sub>
-
+<sub>★ &nbsp;<b>GALAGA</b> — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class</sub>
 </div>
 
 <br/>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/AishaSid/AishaSid/blob/output/galaga-dark.svg" />
+    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github.com/AishaSid/AishaSid/blob/output/galaga.svg" />
+    srcset="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga.svg" />
   <img
     alt="Galaga ship shooting Aisha's GitHub contributions"
-    src="https://github.com/AishaSid/AishaSid/blob/output/galaga-dark.svg"
+    src="https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-dark.svg"
     width="100%" />
 </picture>
-
 </div>
 
 <br/>
