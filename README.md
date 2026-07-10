@@ -273,7 +273,7 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <div align="center">
 
 ```
-╔─────────────────────────────��──────────────────────────────────╗
+╔────────────────────────────────────────────────────────────────╗
   ◈  INVENTORY  //  TECH.STACK                          [ ■ □ × ]
 ╚────────────────────────────────────────────────────────────────╝
 ```
@@ -317,10 +317,10 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 ╚────────────────────────────────────────────────────────────────╝
 
 🟡  **PAC-MAN** — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread
-![Pacman Contribution Game](https://github-readme-arcade.vercel.app/api?username=AishaSid&theme=pacman)
+![Pacman Contribution Game](https://io-github-readme-arcade-cyan.vercel.app/api?username=AishaSid&theme=pacman&mode=weekly)
 
 ★  **GALAGA** — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class
-![Galaga Contribution Game](https://github-readme-arcade.vercel.app/api?username=AishaSid&theme=galaga)
+![Galaga Contribution Game](https://io-github-readme-arcade-cyan.vercel.app/api?username=AishaSid&theme=galaga&mode=weekly)
 
 
 <!-- ╔══════════════════════════════════════════════════════════╗
