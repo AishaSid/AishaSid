@@ -8,13 +8,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0221,30:1a0533,55:3a0ca3,75:7209b7,100:f72585&text=AISHA%20SIDDIQA&fontColor=ffffff&fontSize=52&fontAlignY=38&fontAlign=50&desc=✦%20AI%20ENGINEER%20%20%7C%20%20RAG%20SYSTEMS%20%20%7C%20%20AGENTIC%20AI%20✦&descSize=14&descAlignY=58&descColor=e0aaff&animation=fadeIn&stroke=7209b7&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0221,30:1a0533,55:3a0ca3,75:7209b7,100:f72585&text=AISHA%20SIDDIQA&fontColor=ffffff&fontSize=52&fontAlignY=38&fontAlignX=50" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&multiline=false&width=780&height=30&lines=%3E+SYSTEM+ONLINE+%E2%96%88;%3E+BOOTING+AI+ENGINE+%E2%96%88;%3E+LOADING+RAG+PIPELINES+%E2%96%88;%3E+SPAWNING+AGENTS+%E2%96%88;%3E+CONNECTING+MCP+TOOLS+%E2%96%88;%3E+DEPLOYING+INTELLIGENCE+%E2%96%88" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2600&pause=900&color=B57BFF&center=true&vCenter=true&multiline=false&width=780&height=30&lines=%3E+SYSTEM+ONLINE;%3E+READY+FOR+ACTION" />
 
 </div>
 
@@ -45,9 +45,9 @@
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────╗
+╔────────────────────────────────────────────────────────────────╗
   ◈  ABOUT.ME                                          [ ■ □ × ]
-╚─────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────╝
 ```
 
 </div>
@@ -132,9 +132,9 @@
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────╗
+╔────────────────────────────────────────────────────────────────╗
   ◈  FEATURED.PROJECTS                                  [ ■ □ × ]
-╚─────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────╝
 ```
 
 </div>
@@ -148,7 +148,7 @@
 
 <br/>
 
-Full-stack AI writing platform where an LLM doesn't just autocomplete — it indexes a project, extracts characters, locations and themes, and answers questions about the story via semantic RAG. 231 backend tests · 100% pass rate.
+Full-stack AI writing platform where an LLM doesn't just autocomplete — it indexes a project, extracts characters, locations and themes, and answers questions about the story via semantic RAG. [...]
 
 <br/>
 
@@ -173,7 +173,7 @@ Full-stack AI writing platform where an LLM doesn't just autocomplete — it ind
 
 <br/>
 
-Resume screening chatbot that routes queries across multiple retrieval strategies — dense semantic search, BM25 keyword matching, and hybrid Reciprocal Rank Fusion — to surface best-matching candidates. RAGAS evaluation benchmarked against HyDE, CRAG and Graph RAG.
+Resume screening chatbot that routes queries across multiple retrieval strategies — dense semantic search, BM25 keyword matching, and hybrid Reciprocal Rank Fusion — to surface best-matching [...]
 
 <br/>
 
@@ -198,7 +198,7 @@ Resume screening chatbot that routes queries across multiple retrieval strategie
 
 <br/>
 
-Agentic system that turns a single prompt into a complete short film. I built Phases 2 & 3: 15+ neural character voices via Edge-TTS, Freesound BGM with LLM mood analysis, FFmpeg pro audio mixing, FLUX.1 image generation per dialogue, Ken Burns cinematic animation, and MoviePy timeline composition with burned-in subtitles.
+Agentic system that turns a single prompt into a complete short film. I built Phases 2 & 3: 15+ neural character voices via Edge-TTS, Freesound BGM with LLM mood analysis, FFmpeg pro audio mixing[...]
 
 <br/>
 
@@ -221,7 +221,7 @@ Agentic system that turns a single prompt into a complete short film. I built Ph
 
 <br/>
 
-Research project implementing and benchmarking 7 RAG strategies on the CRAG dataset: RAG Fusion, HyDE, Corrective RAG, Graph RAG, Multi-Query RAG, RRR, and Basic RAG. Evaluated via RAGAS framework with a live React + Flask web demo.
+Research project implementing and benchmarking 7 RAG strategies on the CRAG dataset: RAG Fusion, HyDE, Corrective RAG, Graph RAG, Multi-Query RAG, RRR, and Basic RAG. Evaluated via RAGAS framewor[...]
 
 <br/>
 
@@ -249,9 +249,9 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────╗
+╔────────────────────────────────────────────────────────────────╗
   ◈  SIDE.QUESTS                                        [ ■ □ × ]
-╚─────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────╝
 ```
 
 </div>
@@ -273,9 +273,9 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────────────────────────╗
+╔─────────────────────────────��──────────────────────────────────╗
   ◈  INVENTORY  //  TECH.STACK                          [ ■ □ × ]
-╚─────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────╝
 ```
 
 <!-- Row 1: AI / Agents / RAG + core ML -->
@@ -312,15 +312,15 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
      ║                      STATS LOG                           ║
      ╚══════════════════════════════════════════════════════════╝ -->
 
-╔─────────────────────────────────────────────────────────────────╗
+╔────────────────────────────────────────────────────────────────╗
   ◈  STATS.LOG                                          [ ■ □ × ]
-╚─────────────────────────────────────────────────────────────────╝
+╚────────────────────────────────────────────────────────────────╝
 
 🟡  **PAC-MAN** — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread
-![Pacman Contribution Game](https://io-github-readme-arcade.vercel.app/api?username=AishaSid&theme=pacman)
+![Pacman Contribution Game](https://github-readme-arcade.vercel.app/api?username=AishaSid&theme=pacman)
 
 ★  **GALAGA** — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class
-![Galaga Contribution Game](https://io-github-readme-arcade.vercel.app/api?username=AishaSid&theme=galaga)
+![Galaga Contribution Game](https://github-readme-arcade.vercel.app/api?username=AishaSid&theme=galaga)
 
 
 <!-- ╔══════════════════════════════════════════════════════════╗
