@@ -49,7 +49,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 🤖 Core Protocol
+###  Core Protocol
 > **I build cognitive architectures where LLMs don't just chat — they retrieve, reason, coordinate, and act.**
 
 * **Retrieval-Augmented Generation (RAG)**: Advanced pipelines, Reciprocal Rank Fusion, metadata filtering, and semantic search.
@@ -232,34 +232,18 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 <div align="center">
   <h2>INVENTORY & TECH STACK</h2>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="350px" height="3px" />
-</div>
+  <br/><br/>
 
-<!-- Row 1: AI / Agents / RAG + core ML -->
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,aws,vscode,vercel,cpp&perline=10" />
+  <!-- Row 1: AI / Agents / RAG + core ML -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,aws,vscode,vercel,cpp&perline=10" />
+  <br/><br/>
 
-<br/>
+  <!-- Row 2: Web + DB + infra -->
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind,mongodb,postgresql,redis,graphql,linux&perline=10" />
+  <br/><br/>
 
-<!-- Row 2: Web + DB + infra -->
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind,mongodb,postgresql,redis,graphql,linux&perline=10" />
-
-<br/>
-
-<!-- Row 3: AI/ML ecosystem — shields badges for ones not in skillicons -->
-<img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square&logo=langchain&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/LangGraph-7209b7?style=flat-square&logo=langchain&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/ChromaDB-F72585?style=flat-square&logo=databricks&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/FAISS-4CC9F0?style=flat-square&logo=meta&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/RAGAS-F8961E?style=flat-square&logo=python&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/MCP-4CC9F0?style=flat-square&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="28" />
-
+  <!-- Row 3: AI/ML ecosystem — shields badges for ones not in skillicons -->
+  <img src="https://img.shields.io/badge/LangChain-6C63FF?style=flat-square&logo=langchain&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/LangGraph-7209b7?style=flat-square&logo=langchain&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/ChromaDB-F72585?style=flat-square&logo=databricks&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/FAISS-4CC9F0?style=flat-square&logo=meta&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/RAGAS-F8961E?style=flat-square&logo=python&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/MCP-4CC9F0?style=flat-square&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" height="28" />
 </div>
 
 <br/>
