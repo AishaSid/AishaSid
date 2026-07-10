@@ -316,11 +316,13 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
   ◈  STATS.LOG                                          [ ■ □ × ]
 ╚─────────────────────────────────────────────────────────────────╝
 
-🟡  **PAC-MAN** — built with OS concepts · POSIX threads · mutexes · semaphores · each ghost runs in its own thread
-![Pac-Man eating Aisha's GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=AishaSid&theme=react-dark)
+🎮 **CONTRIBUTION GAME** — Watch a retro arcade game eat my GitHub commit history!
+───
+![GitHub Contribution Animation](https://raw.githubusercontent.com/AishaSid/AishaSid/output/github-contribution-grid-snake.svg)
 
-★  **GALAGA** — built with OOP concepts · inheritance · polymorphism · encapsulation · every enemy is a class
-![Galaga ship shooting Aisha's GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AishaSid&theme=ambient_gradient)
+★ **PROFILE DETAILS** — My current GitHub statistics and language metrics
+───
+![Aisha's GitHub Stats](https://github-readme-stats.vercel.com/api?username=AishaSid&show_icons=true&theme=dark)
 
 
 <!-- ╔══════════════════════════════════════════════════════════╗
