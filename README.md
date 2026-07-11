@@ -258,10 +258,10 @@ Research project implementing and benchmarking 7 RAG strategies on the CRAG data
 </div>
 
 🟡 **PAC-MAN** — contributions as gameplay · built with OS concepts (mutexes, threading, and processes)
-![Pac-Man Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-graph.svg)
+![Pac-Man Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/pacman-contribution-graph-dark.svg)
 
 ★ **GALAGA** — contributions as gameplay · built with OOP concepts
-![Galaga Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-graph.svg)
+![Galaga Contribution Grid](https://raw.githubusercontent.com/AishaSid/AishaSid/output/galaga-contribution-graph-dark.svg)
 
 
 <!-- ╔══════════════════════════════════════════════════════════╗
